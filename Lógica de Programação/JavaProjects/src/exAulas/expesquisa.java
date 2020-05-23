@@ -1,3 +1,5 @@
+package exAulas;
+
 import java.util.Scanner;
 
 public class expesquisa {

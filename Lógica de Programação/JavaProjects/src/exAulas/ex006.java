@@ -1,4 +1,4 @@
-//import java.util.Scanner;
+package exAulas;//import java.util.Scanner;
 //faça um programa que jogue adivinha com o usuário, mostre se o número do chute é maior ou menor.
 
 public class ex006 {
