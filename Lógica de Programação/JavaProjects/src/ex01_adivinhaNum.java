@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class adivinhaNum {
+public class ex01_adivinhaNum {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int chute=0, tentativa=0;

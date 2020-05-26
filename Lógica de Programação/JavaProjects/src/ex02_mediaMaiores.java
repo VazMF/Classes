@@ -2,7 +2,7 @@
 //finalizado quando é aceito três números iguais. No final, mostre a média dos maiores números de cada repetição.
 import java.util.Scanner;
 
-public class ex008 {
+public class ex02_mediaMaiores {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         //declaracao das variaveis
@@ -11,7 +11,7 @@ public class ex008 {
 
         //comeco do while
 
-        System.out.println("Digite três números iguais para encerrar o programa.".toUpperCase());
+        System.out.println("DIGITE TRÊS NÚMEROS IGUAIS PARA ENCERRAR O PROGRAMA.");
 
         do {
             System.out.println("Digite um número: ");
