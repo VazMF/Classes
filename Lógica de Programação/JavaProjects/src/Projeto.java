@@ -33,14 +33,14 @@ public class Projeto {
         return this.horas;
     }
 
-    public void setNome(String nome){
-        if (nome != " "){
-            this.nome = nome;
+    public void setNome(String novoNome){
+        if (novoNome != " "){
+            this.nome = novoNome;
         }
     }
 
     public void setCustoHora(double custoHora){
-        if (custoHora != 0){
+        if (custoHora > 0){
             this.custoHora = custoHora;
         }
     }
